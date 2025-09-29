@@ -1,4 +1,5 @@
 
+
 function initLikeAndAlert() {
   const alertBtn = document.getElementById('alert-btn');
   if (alertBtn) {
