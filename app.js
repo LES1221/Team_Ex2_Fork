@@ -18,4 +18,5 @@ function initLikeAndAlert() {
   }
 }
 
+
 document.addEventListener('DOMContentLoaded', initLikeAndAlert);
